@@ -40,6 +40,25 @@ Framework structuring and validation planning (Weeks 11 to 18)
 - <b>Epic 4:</b>  Initial framework documentation
 - <b>Epic 5:</b>  Test planning and MVP definition
 
+### Module 3
+
+Testing and Validation (Weeks 21 to 30)  
+
+<b>Objective:</b> Validate the framework in a controlled environment with real use cases.  
+
+- <b>Epic 1:</b> Execution of tests with use cases.
+- <b>Epic 2:</b> Analysis of results.  
+- <b>Epic 3:</b> Iteration and refinement of the framework.
+
+### Module 4
+
+Exploration and Integration of Executive Reports (Weeks 31 to 40)
+
+<b>Objective:</b> To understand how the data generated during the refinement process can be used in executive reports. 
+
+- <b>Epic 1:</b> Exploration of tools and integration possibilities
+- <b>Epic 2:</b> Theoretical design and proof of concept for reports
+- <b>Epic 3:</b> Consolidation and communication of results
  
 ## Folder structure
 
@@ -79,3 +98,31 @@ The sprints defined below are equivalent to Module 2.
 - Sprint 4 (02/06 - 13/06): Choice of modeling tools and simplified visual techniques. Structuring the flow of use of the framework in the development cycle.
   
 - Sprint 5 (16/06 - 27/06): Creation of standardized templates and structuring of the framework's base document. Definition of the MVP and effectiveness criteria for testing. Planning practical tests with POs.
+
+<br>
+
+The sprints defined below are equivalent to Module 3.
+
+- Sprint 1 (04/08 - 15/08): Selection of 3 to 5 pilot projects. Application of steps 1 to 4 of FELIX (reception, backlog, classification and prioritization).
+  
+- Sprint 2 (18/08 - 29/08): Execution of stages 5 and 6 with POs in real time. Discovery and alignment sessions with stakeholders. Registration of rules, requirements and dependencies.
+  
+- Sprint 3 (01/09 - 12/09): Application of the “Clarity of Refinements” metric (number of meetings per specified item). Initial monitoring of the rework rate after stage 6.
+  
+- Sprint 4 (15/09 - 26/09): Evaluation of the “Rework Rate”. Application of step 7 (Executive Summary) and collection of feedback from stakeholders on clarity and understanding.
+  
+- Sprint 5 (09/29 - 10/10): Consolidation of results. Analysis of the data collected in the previous stages and preparation of the final report with evidence of the framework's impact.
+
+<br>
+
+The sprints defined below are equivalent to Module 4.
+
+- Sprint 1 (13/10 - 24/10): Exploration and comparison of tools for creating executive reports. Analysis of possibilities for integration with Monday.
+  
+- Sprint 2 (27/10 - 07/11): Theoretical definition of the structure of the reports and identification of the main indicators to be displayed.
+  
+- Sprint 3 (10/11 - 21/11): Development of a theoretical proof of concept, simulating the use of data exported from Monday and demonstrating its potential for executive reports.
+  
+- Sprint 4 (24/11 - 05/12): Preparation and presentation of results to the final project committee, highlighting the applicability of the framework and the executive report proposal.
+  
+- Sprint 5 (08/12 - 19/12): Final project documentation, including the consolidated version of the executive report, lessons learned, and future recommendations.
